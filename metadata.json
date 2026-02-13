@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis AI Assistant",
+  "description": "A conversational AI assistant inspired by Jarvis from Iron Man, powered by the Gemini 2.5 Native Audio (Live API). Engage in real-time voice conversations. Please note: advanced mobile device control (e.g., app management, phone locking, reading system notifications, making calls, sending messages directly to other apps like WhatsApp) is not technically feasible for a web application due to browser security restrictions and operating system sandboxing. This application focuses on simulating the conversational intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
